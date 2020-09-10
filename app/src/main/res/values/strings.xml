@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GADS Leaderboard</string>
+    <string name="learning_hours">20 learning hours, Nigeria</string>
+    <string name="learners_name">Adams Mercy</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="skill_iq_leaders">Skill IQ Leaders</string>
+    <string name="submit">Submit</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>
